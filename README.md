@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 3.开启代理，设置端口8085，保存
 
-![c10058e7345e2705971b0a1839c022cc](.\img\c10058e7345e2705971b0a1839c022cc.png)
+![c10058e7345e2705971b0a1839c022cc](img/c10058e7345e2705971b0a1839c022cc.png)
 
 4.运行代码
 
