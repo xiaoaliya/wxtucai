@@ -8,7 +8,7 @@ import mitmproxy.http
 class Action1:
     def __init__(self):
         self.url = ""
-    #拦截发出的请求函数，此处不给看！略略略！
+    #拦截发出的请求函数
     def request(self, flow: mitmproxy.http.HTTPFlow):
         self.url = flow.request.url
 
